@@ -5,7 +5,7 @@
   - 터미널에서 <code>npm i -g gitmoji-cli</code> 혹은 <code>brew install gitmoji</code> 명령어를 적어주어 설치해준다.
   - <code>gitmoji -c</code> 커맨드로 깃모지 커밋을 작성할 수 있다.
   - 방향키 혹은 키워드를 적어, 원하는 이모지를 고른다.
-  - <code>commit title</code>과 <code>commit message</code>를 작성하고 엔터를 누르면 commit이 완료된다.<br>
+  - <code>commit title</code>과 <code>commit message</code>를 작성하고 엔터를 누르면 commit이 완료된다.<br><br>
     ![image](https://github.com/user-attachments/assets/b294b0f0-3503-4150-ab5c-f51dc32233ce)
 <br><br>
   
